@@ -4,7 +4,7 @@
 
 import fs, { promises } from 'fs'
 import { Moment } from 'moment'
-import { EstimationResult } from '@cloud-carbon-footprint/common'
+import { EstimationResult } from '@cloud-project-3/common'
 import CacheManager from './CacheManager'
 import { EstimationRequest } from './CreateValidRequest'
 import {
