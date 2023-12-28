@@ -10,7 +10,7 @@
   "homepage": "https://www.cloudcarbonfootprint.org/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint",
+    "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint.git",
     "directory": "packages/cli"
   },
   "keywords": [
