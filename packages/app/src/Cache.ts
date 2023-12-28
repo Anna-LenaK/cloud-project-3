@@ -8,7 +8,7 @@ import {
   EstimationResult,
   GroupBy,
   Logger,
-} from '@cloud-carbon-footprint/common'
+} from '@cloud-project-3/common'
 import { EstimationRequest } from './CreateValidRequest'
 import GoogleCloudCacheManager from './GoogleCloudCacheManager'
 import LocalCacheManager from './LocalCacheManager'
