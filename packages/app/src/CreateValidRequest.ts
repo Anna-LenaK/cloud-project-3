@@ -9,7 +9,7 @@ import {
   EstimationRequestValidationError,
   GroupBy,
   RecommendationsRequestValidationError,
-} from '@cloud-carbon-footprint/common'
+} from '@cloud-project-3/common'
 import {
   FootprintEstimatesRawRequest,
   RecommendationsRawRequest,
