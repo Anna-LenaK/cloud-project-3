@@ -3,7 +3,7 @@
  */
 
 import moment, { Moment } from 'moment'
-import { EstimationResult, Logger } from '@cloud-carbon-footprint/common'
+import { EstimationResult, Logger } from '@cloud-project-3/common'
 import { EstimationRequest } from './CreateValidRequest'
 
 export default abstract class CacheManager {
