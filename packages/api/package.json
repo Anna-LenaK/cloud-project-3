@@ -1,5 +1,5 @@
 {
-  "name": "@cloud-carbon-footprint/api",
+  "name": "@cloud-project-3/api",
   "version": "1.8.1",
   "license": "Apache-2.0",
   "description": "The API endpoint as an entrypoint to get cloud energy and carbon emissions. Optionally used by the client dashboard.",
@@ -7,10 +7,10 @@
   "publishConfig": {
     "main": "dist/server.js"
   },
-  "homepage": "https://www.cloudcarbonfootprint.org/",
+  "homepage": "18.212.202.49",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint",
+    "url": "https://github.com/cloud-project-3/project-3",
     "directory": "packages/api"
   },
   "keywords": [
