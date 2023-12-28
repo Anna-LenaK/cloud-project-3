@@ -5,7 +5,7 @@
 import { Storage } from '@google-cloud/storage'
 import { Moment } from 'moment'
 import CacheManager from './CacheManager'
-import { configLoader, EstimationResult } from '@cloud-carbon-footprint/common'
+import { configLoader, EstimationResult } from '@cloud-project-3/common'
 import { EstimationRequest } from './CreateValidRequest'
 import {
   writeToFile,
