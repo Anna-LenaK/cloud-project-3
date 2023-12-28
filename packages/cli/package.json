@@ -1,5 +1,5 @@
 {
-  "name": "@cloud-carbon-footprint/cli",
+  "name": "@cloud-project-3/cli",
   "version": "1.12.4",
   "license": "Apache-2.0",
   "description": "Command Line Interface as an entrypoint to get cloud energy and carbon emissions.",
@@ -7,10 +7,10 @@
   "publishConfig": {
     "main": "dist/index.js"
   },
-  "homepage": "https://www.cloudcarbonfootprint.org/",
+  "homepage": "18.212.202.49",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint.git",
+    "url": "https://github.com/cloud-project-3/cloud-project-3.git",
     "directory": "packages/cli"
   },
   "keywords": [
