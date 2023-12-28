@@ -1,5 +1,5 @@
 {
-  "name": "@cloud-carbon-footprint/client",
+  "name": "@cloud-proejct-3/client",
   "version": "4.2.2",
   "license": "Apache-2.0",
   "description": "The front-end dashboard for Cloud Carbon Footprint.",
@@ -8,10 +8,10 @@
     "main": "dist/lib.js",
     "types": "dist/lib.d.ts"
   },
-  "homepage": "https://www.cloudcarbonfootprint.org/",
+  "homepage": "18.212.202.49",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint",
+    "url": "https://github.com/cloud-project-3/cloud-project-3",
     "directory": "packages/client"
   },
   "keywords": [
