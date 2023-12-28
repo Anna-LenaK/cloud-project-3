@@ -8,7 +8,7 @@ import {
   configLoader,
   EstimationResult,
   Logger,
-} from '@cloud-carbon-footprint/common'
+} from '@cloud-project-3/common'
 import CacheManager from './CacheManager'
 import { EstimationRequest } from './CreateValidRequest'
 import { getDatesWithinRequestTimeFrame } from './common/helpers'
