@@ -1,5 +1,5 @@
 {
-  "name": "@cloud-carbon-footprint/create-app",
+  "name": "@cloud-project-3/create-app",
   "version": "2.5.1",
   "license": "Apache-2.0",
   "description": "Create app package for Cloud Carbon Footprint",
@@ -10,10 +10,10 @@
   "bin": {
     "ccf-create-app": "bin/ccf-create-app"
   },
-  "homepage": "https://www.cloudcarbonfootprint.org/",
+  "homepage": "18.212.202.49",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint",
+    "url": "https://github.com/cloud-project-3/cloud-project-3",
     "directory": "packages/create-app"
   },
   "keywords": [
