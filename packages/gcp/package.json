@@ -1,5 +1,5 @@
 {
-  "name": "@cloud-carbon-footprint/gcp",
+  "name": "@cloud-project-3/gcp",
   "version": "0.14.0",
   "license": "Apache-2.0",
   "description": "The core logic to get cloud usage data and estimate energy and carbon emissions from Google Cloud Platform.",
@@ -8,10 +8,10 @@
   "publishConfig": {
     "main": "dist/index.js"
   },
-  "homepage": "https://www.cloudcarbonfootprint.org/",
+  "homepage": "18.212.202.49",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloud-carbon-footprint/cloud-carbon-footprint.git",
+    "url": "git+https://github.com/cloud-project-3/cloud-project-3.git",
     "directory": "packages/gcp"
   },
   "keywords": [
